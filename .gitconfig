@@ -1,5 +1,7 @@
 [http]
-        proxy = http://username:password@eurproxy1:8080
+	proxy = http://username:password@eurproxy1:8080
 [user]
-name = Douglas Kastle
-email = douglas.kastle@gmail.com
+	name = Douglas Kastle
+	email = douglas.kastle@gmail.com
+[github]
+	user = douglaskastle
