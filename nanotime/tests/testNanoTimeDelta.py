@@ -2,7 +2,7 @@
 import datetime
 import unittest
 import nanotime.nanotime as nanotime
-from nanotime.Test.utils import checkAttributes, hasAttributes
+from nanotime.tests.utils import checkAttributes, hasAttributes
 
 class TestNanoTimeDelta(unittest.TestCase):
 	

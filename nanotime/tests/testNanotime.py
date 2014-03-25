@@ -2,7 +2,7 @@
 import datetime
 import unittest
 import nanotime.nanotime as nanotime
-from nanotime.Test.utils import checkAttributes
+from nanotime.tests.utils import checkAttributes
 
 class TestNanotime(unittest.TestCase):
 
