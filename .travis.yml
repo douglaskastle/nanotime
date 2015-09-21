@@ -5,5 +5,5 @@ python:
   - "3.4"
   - "pypy"
 install: 
-  - pip install .
+  - pip install -r  nanotime/requirements.txt
 script: nose2
